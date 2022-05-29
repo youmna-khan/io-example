@@ -1,4 +1,4 @@
-package org.sparta.model;
+package org.sparta.model.io;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class BinaryFileIO {
-  static Logger logger = LogManager.getLogger(BinaryFileIO.class);
+  static Logger logger = LogManager.getLogger( BinaryFileIO.class );
 
   public static void readBinary( String infile ) {
     try ( FileInputStream fis = new FileInputStream( infile ) ) {

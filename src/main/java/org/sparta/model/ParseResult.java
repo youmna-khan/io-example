@@ -1,38 +1,48 @@
 package org.sparta.model;
 
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 
 public class ParseResult {
 
-  private Set< EmployeeRecord > employeeRecords;
-  private Map< Double, List< String > > errors;
+  public Set< Employee > withMissingAttributes = new HashSet<>();
+  public List< String > corrupt = new ArrayList<>();
+  private Set< Employee > employees;
+  private List< Employee > duplicates;
 
-  public List< EmployeeRecord > getDuplicates() {
+  public List< Employee > getDuplicates() {
     return duplicates;
   }
 
-  public void setDuplicates( List< EmployeeRecord > duplicates ) {
+  public void setDuplicates( List< Employee > duplicates ) {
     this.duplicates = duplicates;
   }
 
-  private List< EmployeeRecord > duplicates;
-
-  public Set< EmployeeRecord > getEmployeeRecords() {
-    return employeeRecords;
+  public Set< Employee > getEmployees() {
+    return employees;
   }
 
-  public void setEmployeeRecords( Set< EmployeeRecord > employeeRecords ) {
-    this.employeeRecords = employeeRecords;
+  public void setEmployees( Set< Employee > employees ) {
+    this.employees = employees;
   }
 
-  public Map< Double, List< String > > getErrors() {
-    return errors;
+  public void addRecord( String corrupt ) {
+    this.corrupt.add( corrupt );
   }
 
-  public void setErrors( Map< Double, List< String > > errors ) {
-    this.errors = errors;
+
+  public List< String > getCorrupt() {
+    return corrupt;
+  }
+
+  public Set< Employee > getWithMissingAttributes() {
+    return withMissingAttributes;
+  }
+
+  public void addMissingAttribute( Employee employee ) {
+    this.withMissingAttributes.add( employee );
   }
 }
