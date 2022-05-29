@@ -1,0 +1,113 @@
+FILE [INFO ] 2022-05-25 00:06:18,613 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-25 00:06:18,635 main org.sparta.model.TextFileIO - Number of records processed are 2
+FILE [INFO ] 2022-05-25 09:17:35,041 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 09:19:19,532 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-25 09:19:19,548 main org.sparta.model.TextFileIO - Number of records processed are 2
+FILE [INFO ] 2022-05-25 09:19:19,558 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 09:19:59,334 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-25 09:19:59,348 main org.sparta.model.TextFileIO - Number of records processed are 2
+FILE [INFO ] 2022-05-25 09:19:59,356 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 09:19:59,357 main org.sparta.model.TextFileIO - Number of records processed are 2
+FILE [INFO ] 2022-05-25 10:51:16,005 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 11:27:42,551 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [ERROR] 2022-05-25 11:27:42,558 main org.sparta.model.TextFileIO - Duplicates presentsFILE [ERROR] 2022-05-25 11:27:42,649 main org.sparta.model.TextFileIO - Duplicates
+FILE [INFO ] 2022-05-25 12:01:30,197 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 12:10:36,484 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 12:15:32,702 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 13:33:17,909 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 13:33:18,054 main org.sparta.model.TextFileIO - Number of records processed are 0
+FILE [INFO ] 2022-05-25 13:36:03,100 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 13:36:03,236 main org.sparta.model.TextFileIO - Number of records processed are 0
+FILE [INFO ] 2022-05-25 13:38:22,392 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 13:38:22,524 main org.sparta.model.TextFileIO - Number of records processed are 0
+FILE [INFO ] 2022-05-25 13:39:13,881 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-25 13:40:15,080 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+ resents
+FILE [ERROR] 2022-05-25 13:40:15,216 main org.sparta.model.TextFileIO - Duplicates presents
+
+FILE [ERROR] 2022-05-25 13:40:17,006 main org.sparta.model.
+FILE [INFO ] 2022-05-26 10:00:50,697 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:36:38,147 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:36:38,173 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:38:50,329 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:38:50,365 main org.sparta.model.TextFileIO - Number of Employee Records found are 2
+FILE [ERROR] 2022-05-26 10:38:50,366 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 10:38:50,382 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:38:50,383 main org.sparta.model.TextFileIO - Number of Employee Records found are 2
+FILE [ERROR] 2022-05-26 10:38:50,384 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:39:04,076 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:40:41,155 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:40:41,428 main org.sparta.model.TextFileIO - Number of Employee Records found are 10000
+FILE [ERROR] 2022-05-26 10:40:41,428 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:41:02,909 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:41:02,915 main org.sparta.model.TextFileIO - Number of Employee Records found are 2
+FILE [ERROR] 2022-05-26 10:41:02,915 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 10:41:02,924 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:41:02,925 main org.sparta.model.TextFileIO - Number of Employee Records found are 2
+FILE [ERROR] 2022-05-26 10:41:02,925 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:42:19,925 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:42:19,932 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:42:19,932 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 10:42:19,940 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:42:19,941 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:42:19,941 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:42:29,482 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:42:29,803 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 10:42:29,803 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:42:55,130 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:42:55,402 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 10:42:55,402 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:53:27,096 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:53:27,106 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:53:27,107 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 10:53:27,120 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:53:27,120 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:53:27,121 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:53:41,709 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:53:41,861 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 10:53:41,862 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:55:20,660 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 10:55:20,666 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:55:20,667 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 10:55:20,675 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:55:20,675 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 10:55:20,676 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 10:56:54,957 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 10:56:55,055 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 10:56:55,056 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 11:16:04,925 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 11:16:05,031 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [INFO ] 2022-05-26 11:59:28,639 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 11:59:28,772 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 11:59:28,772 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 21:01:55,865 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 21:01:55,980 main org.sparta.model.TextFileIO - Number of Employee Records processed are 10000
+FILE [ERROR] 2022-05-26 21:01:55,980 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 21:03:04,806 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 21:03:06,031 main org.sparta.model.TextFileIO - Number of Employee Records processed are 9943
+FILE [ERROR] 2022-05-26 21:03:06,031 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 57
+FILE [INFO ] 2022-05-26 21:36:57,225 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 21:36:57,233 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:36:57,233 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 21:36:57,245 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 21:36:57,245 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:36:57,245 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 21:37:07,274 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 21:37:08,512 main org.sparta.model.TextFileIO - Number of Employee Records processed are 9943
+FILE [ERROR] 2022-05-26 21:37:08,512 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 57
+FILE [INFO ] 2022-05-26 21:38:19,268 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 21:38:19,280 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:38:19,280 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 21:38:19,295 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-26 21:38:19,296 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:38:19,296 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-26 21:41:22,432 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecordsDuplicate.csv
+FILE [INFO ] 2022-05-26 21:41:22,438 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:41:22,439 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 1
+FILE [INFO ] 2022-05-26 21:41:22,447 main org.sparta.model.TextFileIO - Reading csv file of Employee src/test/resources/EmployeeRecords.csv
+FILE [ERROR] 2022-05-26 21:41:22,448 main org.sparta.model.TextFileIO - Missing Fields for Employee 872637 are [LastName is missing]
+FILE [INFO ] 2022-05-26 21:41:22,448 main org.sparta.model.TextFileIO - Number of Employee Records processed are 2
+FILE [ERROR] 2022-05-26 21:41:22,449 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 0
+FILE [INFO ] 2022-05-27 16:49:01,278 main org.sparta.model.TextFileIO - Reading csv file of Employee src/main/resources/EmployeeRecords.csv
+FILE [INFO ] 2022-05-27 16:49:02,510 main org.sparta.model.TextFileIO - Number of Employee Records processed are 9943
+FILE [ERROR] 2022-05-27 16:49:02,510 main org.sparta.model.TextFileIO - Number of duplicate employee records found are 57
